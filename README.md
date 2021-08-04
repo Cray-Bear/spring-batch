@@ -67,6 +67,8 @@ $> docker run -it maven:3-openjdk-8 bash
 This is the quickest way to get started with a new Spring Batch project.  You find the Getting Started Guide for Spring
 Batch on Spring.io: [Creating a Batch Service](https://spring.io/guides/gs/batch-processing/)
 
+# Make some changes to make it easier！
+
 # Getting Started Using Spring Tool Suite (STS)
 
 It requires an internet connection for download, and access to a Maven repository (remote or local).
